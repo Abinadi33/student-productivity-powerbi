@@ -1,6 +1,6 @@
 # Student Productivity & Operations Dashboard (EdTech)
 
-![Dashboard Preview](tu_captura_de_pantalla.jpg)
+![Dashboard Preview](Dashboard.png)
 
 ## Project Objective
 Validate the business hypothesis regarding whether student infrastructure (specifically internet quality) correlates with academic performance (GPA), sleep duration, and study habits.
